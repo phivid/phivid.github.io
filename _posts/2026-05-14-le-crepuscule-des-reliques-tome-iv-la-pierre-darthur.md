@@ -8,11 +8,11 @@ category: fantasy
 # Le Crépuscule des Reliques
 ## Tome IV — La Pierre d'Arthur
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 > *La Table Ronde n'a pas de bout, impliquant que chacun qui s'y assied a le même statut. Elle est moins un meuble qu'une déclaration. Une déclaration que personne ne fit jamais mieux qu'Arthur — et qu'il paya de sa vie.[^1]*
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ## Prologue — Retour à Camelot
 
@@ -60,7 +60,7 @@ Aeldric regarda. Sur la flèche nord de la Tour des Théurgistes, deux corbeaux 
 
 Ils descendirent vers Camelot.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ## Partie I — Aldous et ses Questions
 
@@ -122,7 +122,7 @@ Il tendit le disque à Caradoc.
 
 — Explique-moi comment ça fonctionne. Précisément. Pas les grandes lignes — la mécanique exacte. Avant que quiconque touche quoi que ce soit.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre II — La Leçon d'Aldous
 
@@ -190,7 +190,7 @@ Il tendit le disque à Aeldric.
 
 — La Pierre d'Arthur. Elle est à vous.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre III — Ce que Camelot Sait
 
@@ -286,7 +286,7 @@ Caradoc la regarda.
 
 Gwenneth nota quelque chose sur son dernier parchemin, plia ses affaires, et sortit sans un mot de plus.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ## Partie II — Les Interstices, Dernière Fois
 
@@ -348,7 +348,7 @@ Aeldric fit la même petite entaille dans sa paume que dans les catacombes de Da
 
 La couture entre les réalités s'ouvrit.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre V — Les Trois Points d'Ancrage
 
@@ -380,7 +380,7 @@ La lumière de Camelot. La lumière d'une salle ronde où personne ne siège au 
 
 Ils n'eurent pas le temps de s'y diriger.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre VI — La Cour Sombre
 
@@ -406,7 +406,7 @@ Caradoc leva la main — un geste d'arrêt à l'adresse d'Aeldric.
 
 Les Scaanagh avancèrent.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre VII — Ce que Bjørn Tient
 
@@ -452,7 +452,7 @@ Bjørn prit sa première hache.
 
 Ce qui changea dans les secondes suivantes n'était pas physique et pourtant tout le monde le perçut — les dix-huit agents reculèrent d'un pas collectif, involontaire, comme si quelque chose dans l'air autour de l'homme nordique était devenu soudainement différent d'une façon que leurs corps reconnaissaient avant leurs esprits.[^9][^10]
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre VIII — Le Deuxième et le Troisième Points
 
@@ -504,7 +504,7 @@ Trois façons différentes de dire *nous sommes là depuis avant vous, nous sero
 
 Le sceau se posa.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ## Partie III — Ce que le Sceau Change
 
@@ -542,7 +542,7 @@ La sortie des interstices s'ouvrit d'elle-même — le sceau posé semblait avoi
 
 Ils sortirent dans les Frontières au petit matin.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre X — Ce que la Nuit a laissé
 
@@ -576,7 +576,7 @@ Aeldric regarda les hommes.
 
 Ils partirent. Pas vite — avec la lenteur hébétée de quelqu'un qui n'est pas sûr que l'autorisation est réelle — mais ils partirent.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Épilogue — Retour aux Sources
 
@@ -632,13 +632,13 @@ Aeldric rentra à Camelot avec un chien blanc qui n'appartenait à personne et t
 
 Aldous, au moins, lui devait une bonne recommandation.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 *Fin du Tome IV — La Pierre d'Arthur*
 
 *Fin de la saga — Le Crépuscule des Reliques*
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ## Note sur l'univers
 

@@ -8,11 +8,11 @@ category: fantasy
 # Le Crépuscule des Reliques
 ### Un roman fantastique dans l'univers de *Dark Age of Camelot*
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 > *Il est environ dix ans après la mort du Roi Arthur. Les forces si longtemps contenues par ce légendaire souverain pressent désormais aux frontières d'Albion. Camelot est encore une cité vibrante, mais elle porte les premières marques du déclin. Les reliques sacrées — sources du pouvoir de chaque royaume — sont plus convoitées que jamais.[^1]*
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ## Prologue — La Nuit de Camlann
 
@@ -36,7 +36,7 @@ Cette histoire commence dans la dixième année du règne de Constantin.
 
 Elle commence avec un vol.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ## Partie I — L'Ombre sur Camelot
 
@@ -76,7 +76,7 @@ Ce n'était pas la Relique qui pulsait dans la salle. C'était une copie — une
 
 Aldous n'acheva pas sa phrase. Il n'en avait pas besoin.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre II — La Piste de la Corneille
 
@@ -110,7 +110,7 @@ Aeldric regarda le médaillon dans sa paume.
 
 — Je vais avoir besoin d'une épée, dit-il.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre III — Les Frontières de l'Abîme
 
@@ -138,7 +138,7 @@ Le capitaine se tut. Il rendit le médaillon, se leva, et alla ouvrir lui-même 
 
 — Parce que la nuit, dans la Zone Sombre, les légions romaines se réveillent.[^4]
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre IV — Les Morts Qui Marchent
 
@@ -174,7 +174,7 @@ Elle hésita.
 
 — Tue-les vite. Ils ne souffrent pas comme nous.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ## Partie II — Le Cœur d'Hibernia
 
@@ -198,7 +198,7 @@ Il était petit, l'ombre faite chair — sa silhouette semblait absorber la lumi
 
 À ses pieds, confisqué par les gardes, la Relique d'Albion pulsait de son rouge profond.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre VI — Le Conseil des Druides
 
@@ -234,7 +234,7 @@ Elle posa la relique dans les mains d'Aeldric. Elle était chaude, et la pulsati
 
 — Peut-être. Ou dans quelque chose de plus profond encore.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre VII — Ce que la Nuit Cache
 
@@ -274,7 +274,7 @@ Il y eut un silence.
 
 — Ton père était d'origine mixte. Briton par sa mère, mais par son père... quelque chose d'autre. Quelque chose de vieux. Peut-être que c'est pour ça que les Scaanagh l'ont gardé en vie. Peut-être qu'il leur est utile d'une façon que ni toi ni moi ne comprenons encore.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ## Épilogue — La Flamme du Sanctuaire
 
@@ -308,11 +308,11 @@ Aldous sourit — ce sourire qui ressemblait à une grimace, mais dans lequel Ae
 
 — La prochaine étape, dit le vieux Théurgiste, c'est Darkness Falls.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 *Fin du Tome I — Le Crépuscule des Reliques*
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ## Note de l'auteur : les sources de cet univers
 

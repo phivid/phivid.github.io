@@ -8,7 +8,7 @@ tags: [daoc, eden, midgard, odamus, guilde, rvr, lore, fiction]
 
 > *Sur le serveur Eden, les saisons passent et les royaumes se disputent les Frontières avec une constance qui ferait rougir les dieux eux-mêmes. Mais certaines guildes ne durent pas qu'une saison. Certaines laissent une trace.*
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ## Prologue — Ce que les Corbeaux d'Odin Rapportent
 
@@ -24,7 +24,7 @@ Leur chef s'appelait Odamus.
 
 Huginn fit demi-tour et alla rapporter la nouvelle.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ## Partie I — La Fondation
 
@@ -42,7 +42,7 @@ La guilde s'était construite autour de ce noyau.
 
 Des joueurs attirés par le stream. Des vétérans qui reconnaissaient des façons de jouer. Des nouvelles recrues qui découvraient DAoC pour la première fois à travers les yeux d'un guide qui connaissait suffisamment les mécaniques pour rendre la complexité accessible. Et des amis, aussi — parce que les meilleures guildes de DAoC ne sont jamais uniquement des associations tactiques. Ce sont des communautés.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre II — La Nuit du Registre des Guildes
 
@@ -68,7 +68,7 @@ Une discussion de trente secondes s'ensuivit — le genre de discussion qui en d
 
 — Non, dit quelqu'un d'autre. *Ils* en auront besoin, eux.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre III — Les Visages de la Guilde
 
@@ -80,7 +80,7 @@ Toute guilde est une collection de personnages — au sens littéral dans un jeu
 
 **Les recrues de la Saison 3** — des joueurs attirés par le stream ou par le bouche-à-oreille dans la communauté francophone d'Eden, certains découvrant DAoC pour la première fois, d'autres retrouvant un jeu qu'ils n'avaient pas touché depuis dix ou quinze ans. Eden avait cette magie-là : elle rassemblait des gens qui n'auraient pas joué ensemble autrement.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ## Partie II — Les Frontières de la Saison 3
 
@@ -98,7 +98,7 @@ Sur Eden, ce genre de combat avait un nom : le **GvG**, le *Guild versus Guild*,
 
 Et les Fils d'Odin s'y étaient bâti une réputation.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre V — La Confrontation avec les Pilz
 
@@ -114,7 +114,7 @@ Les Fils d'Odin gagnèrent ce round. Les Pilz gagnèrent le suivant.
 
 Et le groupe de Halftroll, dont l'arrivée en appui fut décisive sur le troisième engagement, fut ajouté à la liste des alliances tactiques de circonstance que les bonnes guildes savent tisser en temps réel.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre VI — La Saison 3 : Retour aux Sources
 
@@ -130,7 +130,7 @@ Les vidéos de février, mars et mai 2026 — *RvR Oda Guild* — documentent un
 
 La constance. Sur Eden, la constance est une rareté précieuse.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ## Partie III — Le Cœur de la Guilde
 
@@ -146,7 +146,7 @@ Odamus avait fait ce choix depuis les premières saisons — continuer à jouer,
 
 La guilde Odamus TwitchTV portait le nom de la chaîne dans son nom de guilde — pas comme un acte de narcissisme, mais comme une enseigne. *Ici, on joue à DAoC, on le montre, et vous êtes les bienvenus pour regarder ou rejoindre.* C'était une invitation permanente, inscrite dans le registre des guildes de Jordheim.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre VIII — La Communauté Francophone d'Eden
 
@@ -156,7 +156,7 @@ D'autres guildes francophones existaient sur le serveur — Albion avait ses pro
 
 Le fil Reddit de mai 2025 mentionnait Odamus comme référence naturelle pour les joueurs francophones cherchant une guilde sur Midgard. *Sur Midgard, Odamus est une guilde française*, dit simplement le post. Cette économie de mots était en fait le plus grand compliment possible : être la référence sans avoir besoin de se vanter de l'être.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre IX — Un Soir de Mars 2026
 
@@ -178,7 +178,7 @@ Une soirée normale.
 
 La meilleure chose qu'une guilde puisse être.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ## Épilogue — Ce que les Corbeaux Rapportèrent
 
@@ -212,6 +212,6 @@ Dans Emain Macha, un groupe de huit guerriers portant l'emblème d'Odamus Twitch
 
 Et il sourit — le sourire d'un dieu qui a vu assez de guerriers passer pour savoir reconnaître ceux qui méritent d'être mentionnés dans les chroniques, pas parce qu'ils ont tout gagné, mais parce qu'ils ne sont jamais partis.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 *Histoire inspirée du lore canonique de Dark Age of Camelot et de la présence documentée de la guilde Odamus TwitchTV sur le serveur Eden (Midgard). Les détails fictionnels sont des inventions narratives ; les éléments de lore — Jordheim, Berserker, Emain Macha, système de guilde, Reliques — sont fidèles au canon officiel du jeu.*

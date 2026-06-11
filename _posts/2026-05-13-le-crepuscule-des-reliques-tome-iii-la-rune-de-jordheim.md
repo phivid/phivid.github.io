@@ -8,11 +8,11 @@ category: fantasy
 # Le Crépuscule des Reliques
 ## Tome III — La Rune de Jordheim
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 > *Les fondations de la grande cité de Jordheim littéralement contiennent les esprits des héros et des leaders du passé. Ce que la plupart des habitants ne réalisent pas, c'est que la légende n'est pas une métaphore.[^1]*
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ## Prologue — La Route du Nord
 
@@ -46,7 +46,7 @@ Aeldric laissa passer ce moment entre les deux hommes. Son père et le Berserker
 
 À l'horizon, les premières falaises de Midgard apparurent dans la brume matinale.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ## Partie I — La Ville sur les Tombes
 
@@ -80,7 +80,7 @@ Les tombes des anciens.
 
 — Les anciens le savent, dit Bjørn. Les jeunes le savent comme une histoire. Les Gothi des temples le savent mieux que quiconque. Et les Runemasters... les Runemasters savent *exactement* ce qu'il y a sous la ville.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre II — La Dette de Bjørn
 
@@ -114,7 +114,7 @@ Il se releva.
 
 — Le Conseil en posera. C'est ce qu'il fait. Mais leur réponse dépendra moins des questions que de qui pose la demande.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre III — Le Conseil des Runemasters
 
@@ -168,7 +168,7 @@ Le Troll toussit. Un son comme deux blocs de granit se frottant l'un contre l'au
 
 — Il y a quelque chose que vous devriez savoir, dit-il d'une voix qui venait du fond de sa cage thoracique. Depuis trois semaines, les fondations bougent.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre IV — Ce que les Fondations Cachent
 
@@ -210,7 +210,7 @@ Aldkin s'arrêta.
 
 — Ils ne l'ont pas trouvée. Elle n'est pas marquée. C'est son camouflage — la Rune de Création est la seule chose dans ces catacombes qui ne ressemble pas à une rune. Elle ressemble à une pierre.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre V — La Rune de Création
 
@@ -244,7 +244,7 @@ La pierre avait changé de couleur — imperceptiblement, d'un gris neutre à un
 
 — Non. Pour la prendre, il faudra quelque chose que je ne peux pas faire seul.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre VI — La Cérémonie des Fondations
 
@@ -290,7 +290,7 @@ Elle le regarda avec des yeux qui ressemblaient pour la première fois à ceux d
 
 — L'épaisseur de l'air a dit oui, dit Bjørn simplement.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ## Partie II — Les Complications
 
@@ -340,7 +340,7 @@ Personne ne répondit.
 
 — Alors on court, dit Bjørn, et on ne s'arrête pas.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre VIII — La Course dans le Noir
 
@@ -368,7 +368,7 @@ Bjørn, dont la rage de Modi constituait apparemment une armure naturelle contre
 
 Ils atteignirent l'entrée du temple en neuf minutes.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre IX — À l'Air Libre
 
@@ -396,7 +396,7 @@ Elle hésita.
 
 Bjørn inclina la tête — un mouvement bref qui était pour lui l'équivalent d'une révérence profonde.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ## Partie III — Le Chemin du Retour
 
@@ -458,7 +458,7 @@ Aeldric pensa à la façon dont Aldous avait fait sortir le capitaine du Fort de
 
 — Il peut tenir des armées avec les bons outils au bon moment, dit-il. Des chevaliers, ce sera probablement faisable.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ### Chapitre XI — Le Message à Aldous
 
@@ -506,7 +506,7 @@ Cú vint poser sa tête sur son genou.
 
 Les eaux de la mer du Milieu les portèrent vers le sud, vers Albion, vers Camelot, vers la dernière pièce du sceau.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ## Épilogue — Trois Artefacts
 
@@ -580,13 +580,13 @@ Il retourna à la barre.
 
 La mer les porta.
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 *Fin du Tome III — La Rune de Jordheim*
 
 *À suivre dans le Tome IV : La Pierre d'Arthur*
 
-<p style="text-align:center;">***</p>
+<div style="text-align:center"><img src=".../assets/images/divider.svg" /></div>
 
 ## Note sur l'univers
 
