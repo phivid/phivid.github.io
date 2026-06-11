@@ -8,11 +8,11 @@ category: fantasy
 # Le Crépuscule des Reliques
 ## Tome II — Les Ombres de Darkness Falls
 
-***
+<p style="text-align:center;">***</p>
 
 > *Darkness Falls est le domaine démoniaque de Légion et de sa vaste armée de serviteurs. Légion se nourrit de la guerre, du sang versé, de la discorde et de la misère. Les promesses de pouvoir et de richesses y ont conduit de nombreux mortels à leur perte.[^1]*
 
-***
+<p style="text-align:center;">***</p>
 
 ## Prologue — Ce que les Portails Gardent
 
@@ -40,7 +40,7 @@ Les chiens avaient peut-être plus de sagesse que les hommes. Ou peut-être moin
 
 Aeldric les suivit.
 
-***
+<p style="text-align:center;">***</p>
 
 ## Partie I — Les Niveaux du Bas
 
@@ -86,7 +86,7 @@ L'Imp regarda Aeldric pendant un long moment, puis regarda le médaillon de corn
 
 — Viens avec moi, dit-il enfin. Mais garde le chien proche. Les Seigneurs du Niveau Inférieur ne supportent pas les animaux blancs.
 
-***
+<p style="text-align:center;">***</p>
 
 ### Chapitre II — La Hiérarchie des Ombres
 
@@ -116,7 +116,7 @@ Aeldric digéra cette information.
 
 — Ton père n'est pas dans Darkness Falls comme tu l'es toi. Il est dans les *interstices*. Les espaces entre les niveaux que personne ne voit, que même les Hauts Seigneurs n'arpentent pas. Un endroit que les Scaanagh de l'*Unseelie Court* ont découvert et qu'ils utilisent depuis... plus longtemps que tu ne le penses.
 
-***
+<p style="text-align:center;">***</p>
 
 ### Chapitre III — L'Alliance Impossible
 
@@ -174,7 +174,7 @@ Bjørn le regarda avec une expression qui était pour la première fois dépourv
 
 — Grand. Cheveux noirs avec du gris aux tempes. Une corneille tatouée sur l'avant-bras gauche.
 
-***
+<p style="text-align:center;">***</p>
 
 ### Chapitre IV — Ce que Ferrus Sait
 
@@ -212,7 +212,7 @@ Aeldric sortit l'épée courte. Il fit une petite entaille dans sa paume gauche.
 
 La porte s'ouvrit.
 
-***
+<p style="text-align:center;">***</p>
 
 ## Partie II — Les Interstices
 
@@ -246,7 +246,7 @@ L'homme ouvrit les yeux.
 
 Ses yeux étaient identiques à ceux d'Aeldric.
 
-***
+<p style="text-align:center;">***</p>
 
 ### Chapitre VI — Caradoc de Pendryd
 
@@ -286,7 +286,7 @@ Bjørn s'était approché pendant ce récit et écoutait avec une attention tota
 
 — Les trois royaumes ne se battraient plus entre eux, dit Caradoc simplement. Il n'y aurait plus rien à défendre ni à conquérir. Ce que libérerait ce portail est quelque chose que ni Albion, ni Midgard, ni Hibernia n'ont le vocabulaire pour nommer.
 
-***
+<p style="text-align:center;">***</p>
 
 ### Chapitre VII — Le Prix du Sceau
 
@@ -332,7 +332,7 @@ Il regarda Aeldric.
 
 — En Hibernia, la Haute Druide Saoirse garde quelque chose dont elle ne parle pas.
 
-***
+<p style="text-align:center;">***</p>
 
 ## Partie III — La Trêve Impossible
 
@@ -378,7 +378,7 @@ Bjørn et Aeldric échangèrent un regard.
 
 — Dix-sept ans à cartographier mentalement les espaces entre les espaces. Je n'ai pas passé tout ce temps à méditer.
 
-***
+<p style="text-align:center;">***</p>
 
 ### Chapitre IX — La Frontière au Matin
 
@@ -410,7 +410,7 @@ Elle regarda le groupe — un Highlander d'Albion, son père rescapé des inters
 
 — Darkness Falls *révèle* des étrangetés, corrigea Caelwen. La différence est importante.
 
-***
+<p style="text-align:center;">***</p>
 
 ### Chapitre X — Ce que Saoirse Gardait
 
@@ -450,7 +450,7 @@ Il hésita. C'était la première fois qu'Aeldric voyait Bjørn hésiter.
 
 — Et je dois des explications à mon roi sur la façon dont je me suis retrouvé dans Darkness Falls avec des guerriers d'Albion. Ce voyage sera aussi celui-là.
 
-***
+<p style="text-align:center;">***</p>
 
 ## Épilogue — Trois Objets, Trois Chemins
 
@@ -496,13 +496,13 @@ Mais quelque chose avait changé dans les interstices. Une absence là où il y 
 
 Pour l'instant.
 
-***
+<p style="text-align:center;">***</p>
 
 *Fin du Tome II — Les Ombres de Darkness Falls*
 
 *À suivre dans le Tome III : La Rune de Jordheim*
 
-***
+<p style="text-align:center;">***</p>
 
 ## Note sur l'univers
 
