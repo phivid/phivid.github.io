@@ -1,10 +1,10 @@
-<p style="text-align:center;">***</p>
+---
 layout: post
 title: "Les Fils d'Odin — La Légende de la guilde Odamus TwitchTV"
 date: 2026-06-12 00:00:00 +0200
 categories: [daoc, fiction, midgard, eden]
 tags: [daoc, eden, midgard, odamus, guilde, rvr, lore, fiction]
-<p style="text-align:center;">***</p>
+---
 
 > *Sur le serveur Eden, les saisons passent et les royaumes se disputent les Frontières avec une constance qui ferait rougir les dieux eux-mêmes. Mais certaines guildes ne durent pas qu'une saison. Certaines laissent une trace.*
 
